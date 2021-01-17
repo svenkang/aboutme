@@ -2,7 +2,7 @@ module.exports = {
   title: 'Sven Kang',
   tagline: 'Software Engineer',
   url: 'https://svenkang.io',
-  baseUrl: '/',
+  baseUrl: '/aboutme/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
