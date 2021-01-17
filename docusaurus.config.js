@@ -1,18 +1,18 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Sven Kang',
+  tagline: 'Software Engineer',
+  url: 'https://svenkang.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'svenkang', 
+  projectName: 'aboutme', 
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Sven Kang',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Sven Kang',
         src: 'img/logo.svg',
       },
       items: [
@@ -77,7 +77,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sven Kang.`,
     },
   },
   presets: [
