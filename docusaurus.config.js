@@ -62,10 +62,6 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Sven Kang`,
     },
-    googleAnalytics: {
-      trackingID: 'UA-187576306-1',
-      anonymizeIP: true, 
-    },
   },
   presets: [
     [
@@ -83,6 +79,15 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        googleAnalytics: {
+          trackingID: 'UA-187576306-1',
+          anonymizeIP: true, 
         },
       },
     ],
