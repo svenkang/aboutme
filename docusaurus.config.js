@@ -70,12 +70,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/svenkang/aboutme/edit/main/docs/',
+            'https://github.com/svenkang/aboutme/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/svenkang/aboutme/edit/main/blog/',
+            'https://github.com/svenkang/aboutme/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
