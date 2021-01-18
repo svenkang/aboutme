@@ -84,6 +84,10 @@ module.exports = {
           trackingID: 'UA-187576306-1',
           anonymizeIP: true, 
         },
+        gtag: {
+          trackingID: 'UA-187576306-1',
+          anonymizeIP: true, 
+        },
       },
     ],
   ],
