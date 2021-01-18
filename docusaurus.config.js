@@ -9,6 +9,10 @@ module.exports = {
   organizationName: 'svenkang', 
   projectName: 'aboutme', 
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-187576306-1',
+      anonymizeIP: true, 
+    },
     navbar: {
       title: 'Sven Kang',
       logo: {
@@ -79,14 +83,6 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-        googleAnalytics: {
-          trackingID: 'UA-187576306-1',
-          anonymizeIP: true, 
-        },
-        gtag: {
-          trackingID: 'UA-187576306-1',
-          anonymizeIP: true, 
         },
       },
     ],
