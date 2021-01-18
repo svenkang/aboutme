@@ -9,6 +9,9 @@ module.exports = {
   organizationName: 'svenkang', 
   projectName: 'aboutme', 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       title: 'Sven Kang',
       logo: {
