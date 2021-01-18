@@ -9,6 +9,15 @@ module.exports = {
   organizationName: 'svenkang', 
   projectName: 'aboutme', 
   themeConfig: {
+    colorMode: {
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+      switchConfig: {
+        // Icon for the switch while in dark mode
+        darkIcon: '🌙',
+        lightIcon: '☀️',
+      }
+    },
     googleAnalytics: {
       trackingID: 'UA-187576306-1',
       anonymizeIP: true, 
