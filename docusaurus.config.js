@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Sven Kang',
-  tagline: 'Software Engineer',
+  tagline: 'Software Engineer | create, design, engineer',
   url: 'https://svenkang.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
