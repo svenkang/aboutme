@@ -55,7 +55,7 @@ function Feature({imageUrl, title, description}) {
 }
 
 function handleBrowserDarkMode(siteConfig) {
-  if (window) {
+  if (typeof window !== 'undefined') {
     const isBrowserDarkModeOn = window.matchMedia('(prefers-color-scheme: dark)').matches;
     if (isBrowserDarkModeOn) siteConfig.favicon = 'img/logo_dark.svg';
   }
