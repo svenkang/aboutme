@@ -62,6 +62,10 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Sven Kang`,
     },
+    googleAnalytics: {
+      trackingID: 'G-65KFEDQKQ6',
+      anonymizeIP: true, 
+    },
   },
   presets: [
     [
@@ -83,4 +87,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: ['@docusaurus/plugin-google-analytics'],
 };
