@@ -54,7 +54,7 @@ function Feature({imageUrl, title, description}) {
   );
 }
 
-function handleBrowserDarkMode(siteConfig) {
+function handleBrowserDarkMode(window, siteConfig) {
   const isBrowserDarkModeOn = window.matchMedia('(prefers-color-scheme: dark)').matches;
   if (isBrowserDarkModeOn) siteConfig.favicon = 'img/logo_dark.svg';
 }
@@ -62,7 +62,7 @@ function handleBrowserDarkMode(siteConfig) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  handleBrowserDarkMode(siteConfig);
+  handleBrowserDarkMode(window, siteConfig);
   return (
     <Layout
       title={`${siteConfig.title} - ${siteConfig.tagline}`}
