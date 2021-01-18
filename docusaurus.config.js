@@ -63,7 +63,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Sven Kang`,
     },
     googleAnalytics: {
-      trackingID: 'G-65KFEDQKQ6',
+      trackingID: 'UA-187576306-1',
       anonymizeIP: true, 
     },
   },
