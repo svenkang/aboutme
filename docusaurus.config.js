@@ -3,9 +3,9 @@ module.exports = {
   tagline: 'Software Engineer',
   url: 'https://svenkang.io',
   baseUrl: '/',
+  favicon: 'img/logo.svg',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
   organizationName: 'svenkang', 
   projectName: 'aboutme', 
   themeConfig: {
@@ -18,6 +18,7 @@ module.exports = {
       logo: {
         alt: 'Sven Kang',
         src: 'img/logo.svg',
+        srcDark: 'img/logo_dark.svg',
       },
       items: [
         {
@@ -64,7 +65,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Sven Kang`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sven Kang, Built with Docusaurus.`,
     },
   },
   presets: [
