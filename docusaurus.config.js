@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Sven Kang',
-  tagline: 'Software Engineer | create, design, engineer',
+  tagline: 'Software Engineer',
   url: 'https://svenkang.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/svenkang/',
           label: 'GitHub',
           position: 'right',
         },
