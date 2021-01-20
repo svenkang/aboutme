@@ -86,7 +86,7 @@ function Home() {
         <div className="container">
           <img
             className={styles.heroLogo}
-            src="../../static/img/logo_dark.svg"
+            src="img/logo_dark.svg"
             alt="Logo"
           ></img>
           <h1 className="hero__title-text">{siteConfig.title}</h1>
