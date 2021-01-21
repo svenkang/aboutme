@@ -8,32 +8,32 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: "Easy to Use",
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    title: "Natural Team Player",
+    imageUrl: "img/undraw_team_player.svg",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Take ownership and responsibility, focusing on collaboration and efficiency. 
+        Clear and effective communicator especially in technical writing.
       </>
     ),
   },
   {
     title: "Focus on What Matters",
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/undraw_focus_what_matters.svg",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Understand business context and focus on solving real problems 
+        with the highest value and impact for the customers.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    title: "Get Things Done",
+    imageUrl: "img/undraw_get_things_done.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Persistent on even the most challenging and complex problems. 
+        Start quickly, execute and adapt. Key contributor in high value projects.
       </>
     ),
   },
