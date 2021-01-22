@@ -10,8 +10,8 @@ module.exports = {
   projectName: 'aboutme', 
   themeConfig: {
     colorMode: {
+      defaultMode: 'dark',
       disableSwitch: false,
-      respectPrefersColorScheme: false,
       switchConfig: {
         // Icon for the switch while in dark mode
         darkIcon: '🌙',
