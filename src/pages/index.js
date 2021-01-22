@@ -12,7 +12,7 @@ const features = [
     imageUrl: "img/undraw_team_player.svg",
     description: (
       <>
-        Take ownership and responsibility, focusing on collaboration and efficiency. 
+        Takes ownership and responsibility and focuses on collaboration and efficiency. 
         Clear and effective communicator especially in technical writing.
       </>
     ),
@@ -22,7 +22,7 @@ const features = [
     imageUrl: "img/undraw_focus_what_matters.svg",
     description: (
       <>
-        Understand business context and focus on solving real problems 
+        Understands business context and focuses on solving real problems 
         with the highest value and impact for the customers.
       </>
     ),
@@ -33,7 +33,7 @@ const features = [
     description: (
       <>
         Persistent on even the most challenging and complex problems. 
-        Start quickly, execute and adapt. Key contributor in high value projects.
+        Quickly starts, executes and adapts. Key contributor in high value projects.
       </>
     ),
   },
