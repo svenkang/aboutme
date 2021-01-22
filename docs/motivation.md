@@ -1,7 +1,7 @@
 ---
-id: example
-title: Style Guide
-sidebar_label: Style Guide
+id: motivation
+title: Motivation
+sidebar_label: Motivation
 slug: /
 ---
 
