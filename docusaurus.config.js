@@ -54,6 +54,10 @@ module.exports = {
               label: 'Introduction',
               to: 'docs/',
             },
+            {
+              label: 'Algorithms',
+              to: 'docs/problem-solving',
+            },
           ],
         },
         {
@@ -66,6 +70,10 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/svenkang/',
+            },
+            {
+              label: 'Contact',
+              to: 'mailto: sven.c.kang@gmail.com',
             },
           ],
         },
