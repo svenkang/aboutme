@@ -5,8 +5,8 @@ sidebar_label: Problem Solving
 slug: /problem-solving
 ---
 
-Problem solving is an incredible valuable skill whatever domain you may find yourself in. 
-Unlike what most people think, problem solving is indeed a skill that you need to cultivate over many years.
+Problem solving is an incredibly valuable skill no matter what you do but it is especially important for software enigneers. 
+Contrary to what most people think, problem solving is indeed a skill that you need to cultivate over many years.
 Utilizing some key principles and guidlines can be a great starting point to become a 
 better problem solver. In this article I would like to discuss the high level problem solving approach and mindset
 especially when it comes to algorithms and computational thinking. This is primarily applied in solving algorithm
