@@ -70,7 +70,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Sven Kang, Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sven Kang, Built with 💚 using Docusaurus.`,
     },
   },
   presets: [
