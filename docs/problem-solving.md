@@ -9,7 +9,7 @@ Problem solving is an incredibly valuable skill no matter what you do but it is 
 Contrary to what most people think, problem solving is indeed a skill that you need to cultivate over many years.
 Utilizing some key principles and guidlines can be a great starting point to become a 
 better problem solver. In this article I would like to discuss the high level problem solving approach and mindset
-especially when it comes to algorithms and computational thinking. This is primarily applied in solving algorithm
+especially when it comes to algorithms and computational thinking. This is primarily applied to solving algorithmic
 problems but can be used in other contexts as well. 
 
 ### Understand the problem
